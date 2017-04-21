@@ -1,0 +1,46 @@
+baseURL = "http://simonedonohue.com/"
+languageCode = "en-us"
+title = "Simone Donohue"
+theme = "hugo-creative-portfolio-theme"
+
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "My portfolio and contact"
+  copyright = "&copy;2017 Simone Donohue"
+  sidebarAbout = [
+    "An experienced Production Coordinator. I have worked with some of the biggest brands around the world to deliver high-quality content in a fast paced environment."
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = ""
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = ""
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "https://www.facebook.com/simonedonohue"
+  linkedin      = "https://www.linkedin.com/in/simone-donohue-75ab4271"
+  instagram     = "https://www.instagram.com/simonedonohue/"
