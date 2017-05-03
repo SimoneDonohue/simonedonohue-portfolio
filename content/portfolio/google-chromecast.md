@@ -4,7 +4,7 @@ draft = false
 image = "img/Google-Chromecast-DE.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Google Chromecast"
-weight = 0
+weight = 3
 +++
 
 Adaptation Producer

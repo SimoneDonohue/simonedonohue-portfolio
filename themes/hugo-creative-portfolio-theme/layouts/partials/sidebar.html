@@ -2,7 +2,7 @@
   <div class="sidebar-content">
     <h1 class="sidebar-heading"><a href="/">{{ .Site.Title }}</a></h1>
     {{ range .Site.Params.sidebarAbout }}
-      <p class="sidebar-p">{{ . | safeHTML }}</p>
+      <p class="sidebar-p">Melbourne | Amsterdam<br><br>{{ . | safeHTML }}</p>
     {{ end }}
     <ul class="sidebar-menu">
       {{ $url := .Site.BaseURL }}

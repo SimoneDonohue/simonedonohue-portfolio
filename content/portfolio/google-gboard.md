@@ -4,7 +4,7 @@ draft = false
 image = "img/Google-Gboard-UK.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Google Gboard UK"
-weight = 0
+weight = 4
 +++
 
 Adaptation Producer

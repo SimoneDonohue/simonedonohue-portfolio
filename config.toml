@@ -11,7 +11,7 @@ theme = "hugo-creative-portfolio-theme"
   description = "My portfolio and contact"
   copyright = "&copy;2017 Simone Donohue"
   sidebarAbout = [
-    "An experienced Production Coordinator. I have worked with some of the biggest brands around the world to deliver high-quality content in a fast paced environment."
+    "Currently Melbourne based freelance video producer and editor."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

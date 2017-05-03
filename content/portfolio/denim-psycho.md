@@ -4,13 +4,13 @@ draft = false
 image = "img/Denham-Psycho.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "Denham Psycho"
-weight = 0
+weight = 1
 +++
 
-Production Assistant / BTS Co-Videographer
+Production Assistant / BTS
 <!--more-->
 
-Denham Psycho
+Denham Psycho, I worked on this project as a production assistant with the company Flickering Wall. In addition I shot some of the BTS footage for the making of video. 
 
 <iframe src="https://player.vimeo.com/video/134085014?color=e42313&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/134085014">Denham Psycho Making Of</a> from <a href="https://vimeo.com/flickeringwall">Flickering Wall</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
