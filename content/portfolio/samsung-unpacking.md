@@ -6,11 +6,9 @@ date = "2016-11-05T18:25:22+05:30"
 title = "Samsung Unpacking, Cannes Awards Film"
 weight = 5
 +++
-
-Editor
 <!--more-->
 
-Samsung Unpacking, Cannes Awards Film
+Editor
 
 <iframe src="https://player.vimeo.com/video/200924784" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/200924784">Unpacking Samsung - Cannes entry</a> from <a href="https://vimeo.com/user16976500">Simone Donohue</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

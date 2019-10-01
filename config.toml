@@ -9,9 +9,9 @@ theme = "hugo-creative-portfolio-theme"
   # Use custom.css for your custom styling
   style = "default"
   description = "My portfolio and contact"
-  copyright = "&copy;2018 Simone Donohue"
+  copyright = "&copy;2019 Simone Donohue"
   sidebarAbout = [
-    "Amsterdam based freelance Avid assistant editor."
+    "Amsterdam based editor & Avid assistant editor."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
