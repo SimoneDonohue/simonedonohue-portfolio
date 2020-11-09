@@ -1,4 +1,4 @@
-baseURL = "http://simonedonohue.com/"
+baseURL = "https://simonedonohue.com/"
 languageCode = "en-us"
 title = "Simone Donohue"
 theme = "hugo-creative-portfolio-theme"
